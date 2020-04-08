@@ -16,3 +16,7 @@ C:\Users\{user}\AppData\Roaming\npm
 `-- typescript@3.7.3
 
 System Path added
+
+---
+
+npm install tsc-watch --dev
