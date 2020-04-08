@@ -1,0 +1,18 @@
+npm init
+git init
+npm install -g typescript
+
+---
+
+npm install -g concurrently
+npm install -g lite-server
+npm install -g typescript
+npm list -g --depth=0 
+
+
+C:\Users\{user}\AppData\Roaming\npm
++-- concurrently@5.0.0
++-- lite-server@2.5.4
+`-- typescript@3.7.3
+
+System Path added
