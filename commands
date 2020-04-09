@@ -20,3 +20,7 @@ System Path added
 ---
 
 npm install tsc-watch --dev
+
+---
+
+npm install -g crypto-js
